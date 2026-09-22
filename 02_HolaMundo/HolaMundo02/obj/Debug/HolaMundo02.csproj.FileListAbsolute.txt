@@ -1,0 +1,9 @@
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\bin\Debug\HolaMundo02.exe.config
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\bin\Debug\HolaMundo02.exe
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\bin\Debug\HolaMundo02.pdb
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\obj\Debug\HolaMundo02.csprojResolveAssemblyReference.cache
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\obj\Debug\HolaMundo02.fInicial.resources
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\obj\Debug\HolaMundo02.Properties.Resources.resources
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\obj\Debug\HolaMundo02.csproj.GenerateResource.Cache
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\obj\Debug\HolaMundo02.exe
+E:\Curso_2026_27\HolaMundo02\HolaMundo02\obj\Debug\HolaMundo02.pdb
