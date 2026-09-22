@@ -1,0 +1,9 @@
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\bin\Debug\09_TrackBar.exe.config
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\obj\Debug\_09_TrackBar.Form1.resources
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\obj\Debug\_09_TrackBar.Properties.Resources.resources
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\obj\Debug\09_TrackBar.csproj.GenerateResource.Cache
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\obj\Debug\09_TrackBar.csprojResolveAssemblyReference.cache
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\bin\Debug\09_TrackBar.exe
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\bin\Debug\09_TrackBar.pdb
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\obj\Debug\09_TrackBar.exe
+D:\Daniel_Fernandez\Interfaces\09_TrackBar\09_TrackBar\obj\Debug\09_TrackBar.pdb

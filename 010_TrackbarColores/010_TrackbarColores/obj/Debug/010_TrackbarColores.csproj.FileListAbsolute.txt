@@ -1,0 +1,9 @@
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\bin\Debug\010_TrackbarColores.exe.config
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\bin\Debug\010_TrackbarColores.exe
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\bin\Debug\010_TrackbarColores.pdb
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\obj\Debug\_010_TrackbarColores.Form1.resources
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\obj\Debug\_010_TrackbarColores.Properties.Resources.resources
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\obj\Debug\010_TrackbarColores.csproj.GenerateResource.Cache
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\obj\Debug\010_TrackbarColores.exe
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\obj\Debug\010_TrackbarColores.pdb
+D:\Daniel_Fernandez\Interfaces\010_TrackbarColores\010_TrackbarColores\obj\Debug\010_TrackbarColores.csprojResolveAssemblyReference.cache

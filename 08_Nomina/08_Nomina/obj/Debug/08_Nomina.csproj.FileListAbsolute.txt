@@ -1,0 +1,9 @@
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\bin\Debug\08_Nomina.exe.config
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\bin\Debug\08_Nomina.exe
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\bin\Debug\08_Nomina.pdb
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\obj\Debug\08_Nomina.csprojResolveAssemblyReference.cache
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\obj\Debug\_08_Nomina.Form1.resources
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\obj\Debug\_08_Nomina.Properties.Resources.resources
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\obj\Debug\08_Nomina.csproj.GenerateResource.Cache
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\obj\Debug\08_Nomina.exe
+D:\Daniel_Fernandez\Interfaces\08_Nomina\08_Nomina\obj\Debug\08_Nomina.pdb
