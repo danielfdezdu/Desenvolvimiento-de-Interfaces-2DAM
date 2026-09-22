@@ -1,0 +1,9 @@
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\bin\Debug\07_Telefono.exe.config
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\bin\Debug\07_Telefono.exe
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\bin\Debug\07_Telefono.pdb
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\obj\Debug\07_Telefono.csprojResolveAssemblyReference.cache
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\obj\Debug\_07_Telefono.Form1.resources
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\obj\Debug\_07_Telefono.Properties.Resources.resources
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\obj\Debug\07_Telefono.csproj.GenerateResource.Cache
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\obj\Debug\07_Telefono.exe
+D:\Daniel_Fernandez\Interfaces\07_Telefono\07_Telefono\obj\Debug\07_Telefono.pdb
