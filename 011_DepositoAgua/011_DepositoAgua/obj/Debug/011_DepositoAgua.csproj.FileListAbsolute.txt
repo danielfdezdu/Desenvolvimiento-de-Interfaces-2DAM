@@ -1,9 +1,0 @@
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\bin\Debug\011_DepositoAgua.exe.config
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\bin\Debug\011_DepositoAgua.exe
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\bin\Debug\011_DepositoAgua.pdb
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\obj\Debug\011_DepositoAgua.csprojResolveAssemblyReference.cache
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\obj\Debug\_011_DepositoAgua.Form1.resources
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\obj\Debug\_011_DepositoAgua.Properties.Resources.resources
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\obj\Debug\011_DepositoAgua.csproj.GenerateResource.Cache
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\obj\Debug\011_DepositoAgua.exe
-D:\Daniel_Fernandez\Interfaces\011_DepositoAgua\011_DepositoAgua\obj\Debug\011_DepositoAgua.pdb
