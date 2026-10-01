@@ -1,0 +1,9 @@
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\bin\Debug\012_DepositoElectrico.exe.config
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\obj\Debug\012_DepositoElectrico.csprojResolveAssemblyReference.cache
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\obj\Debug\_012_DepositoElectrico.Form1.resources
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\obj\Debug\_012_DepositoElectrico.Properties.Resources.resources
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\obj\Debug\012_DepositoElectrico.csproj.GenerateResource.Cache
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\bin\Debug\012_DepositoElectrico.exe
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\bin\Debug\012_DepositoElectrico.pdb
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\obj\Debug\012_DepositoElectrico.exe
+D:\Daniel_Fernandez\Interfaces\012_DepositoElectrico\012_DepositoElectrico\obj\Debug\012_DepositoElectrico.pdb

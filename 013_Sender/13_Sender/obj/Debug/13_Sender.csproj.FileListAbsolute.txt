@@ -1,0 +1,9 @@
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\bin\Debug\13_Sender.exe.config
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\bin\Debug\13_Sender.exe
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\bin\Debug\13_Sender.pdb
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\obj\Debug\13_Sender.csprojResolveAssemblyReference.cache
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\obj\Debug\_13_Sender.Form1.resources
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\obj\Debug\_13_Sender.Properties.Resources.resources
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\obj\Debug\13_Sender.csproj.GenerateResource.Cache
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\obj\Debug\13_Sender.exe
+D:\Daniel_Fernandez\Interfaces\13_Sender\13_Sender\obj\Debug\13_Sender.pdb
